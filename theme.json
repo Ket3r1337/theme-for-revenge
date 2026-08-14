@@ -1,6 +1,6 @@
 {
   "name": "Aetherion Purple Sunset",
-  "description": "Deep Purple color scheme for Revenge",
+  "description": "Deep Purple bordered theme for Revenge",
   "version": "1.0.0",
   "authors": [
     {
@@ -19,17 +19,24 @@
     "INTERACTIVE_HOVER": ["#a843e3", "#a843e3"],
     "INTERACTIVE_ACTIVE": ["#ffffff", "#ffffff"],
     "INTERACTIVE_MUTED": ["#470069", "#470069"],
+
     "BACKGROUND_PRIMARY": ["#000000", "#000000"],
     "BACKGROUND_SECONDARY": ["#050507", "#050507"],
     "BACKGROUND_SECONDARY_ALT": ["#0a0a0f", "#0a0a0f"],
     "BACKGROUND_TERTIARY": ["#000000", "#000000"],
     "BACKGROUND_MOBILE_PRIMARY": ["#000000", "#000000"],
     "BACKGROUND_MOBILE_SECONDARY": ["#050507", "#050507"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#36004f", "#36004f"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["#470069", "#470069"],
     "BACKGROUND_ACCENT": ["#7a00b3", "#7a00b3"],
+
     "BORDER_FOCUS": ["#7a00b3", "#7a00b3"],
-    "BORDER_SUBTLE": ["#7a00b3", "#7a00b3"]
+    "BORDER_SUBTLE": ["#7a00b3", "#7a00b3"],
+    "BORDER_STRONG": ["#7a00b3", "#7a00b3"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#7a00b3", "#7a00b3"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#36004f", "#36004f"],
+    
+    "CARD_PRIMARY_BORDER": ["#7a00b3", "#7a00b3"],
+    "CARD_SECONDARY_BORDER": ["#7a00b3", "#7a00b3"],
+    "DIVIDER": ["#7a00b3", "#7a00b3"]
   },
   "rawColors": {
     "PRIMARY_600": "#000000",
