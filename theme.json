@@ -1,0 +1,173 @@
+{
+  "name": "Aetherion Sunset",
+  "version": "1.0.0",
+  "description": "Aetherion color scheme on the Glorious Sunset Revenge theme base.",
+  "authors": [
+    {
+      "name": "Custom Aetherion",
+      "id": "0"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#5e61ff"
+    ],
+    "HEADER_SECONDARY": [
+      "#d8c9ff"
+    ],
+    "TEXT_NORMAL": [
+      "#d8c9ff"
+    ],
+    "TEXT_MUTED": [
+      "#5e61ff"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#8945ff"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#331982"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#8c71de"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#f04485"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#080228"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#070221"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#080228"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#080228"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#130a2e"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#080228"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#080228"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#080228"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#070221"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#130a2e"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#0e0c1c"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#0e0c1c"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#2c265c"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#190729"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#241c52"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "transparent"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "transparent"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#5e61ff"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#5e59a8"
+    ],
+    "TEXT_LINK": [
+      "#875eff"
+    ],
+    "TEXT_DANGER": [
+      "#b01e45"
+    ],
+    "KEYBOARD": [
+      "#110a11"
+    ],
+    "CHANNEL_ICON": [
+      "#8d85f8"
+    ],
+    "CHAT_BACKGROUND": [
+      "#080228"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#130a2e"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#080228"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#070221"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#8945ff"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#080228"
+    ],
+    "BG_BACKDROP": [
+      "#04010173"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#d8c9ff",
+    "PRIMARY_200": "#d8c9ff",
+    "PRIMARY_230": "#241c52",
+    "PRIMARY_300": "#8d85f8",
+    "PRIMARY_360": "#5e61ff",
+    "PRIMARY_400": "#6052ff",
+    "PRIMARY_500": "#070221",
+    "PRIMARY_600": "#080228",
+    "PRIMARY_630": "#12111b",
+    "PRIMARY_645": "#8945ff",
+    "PRIMARY_660": "#080228",
+    "PRIMARY_700": "#130a2e",
+    "PRIMARY_800": "#080228",
+    "BRAND_260": "#7d52ff",
+    "BRAND_360": "#529ceb",
+    "BRAND_400": "#5908C5",
+    "BRAND_500": "#5908C5",
+    "BRAND_560": "#d8c9ff",
+    "BRAND_600": "#5908C5",
+    "BRAND_630": "#5908C5",
+    "YELLOW_300": "#5908C5",
+    "GREEN_600": "#d8c9ff",
+    "RED_400": "#5843a1",
+    "WHITE_500": "#d8c9ff",
+    "GREEN_360": "#4117ff",
+    "ORANGE_345": "#6052ff",
+    "RED_560": "#e18c41"
+  },
+  "background": {
+    "blur": 0,
+    "url": "https://files.catbox.moe/3dn1sd.jpg",
+    "alpha": 1
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy",
+    "customOverlays": true
+  },
+  "spec": 2
+}
