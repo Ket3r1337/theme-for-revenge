@@ -1,14 +1,13 @@
 {
-  "name": "Ket3r's theme",
-  "version": "1.0.0",
-  "description": "Aetherion color scheme on the Glorious Sunset Revenge theme base.",
-  "authors": [
-    {
-      "name": "Custom Aetherion",
-      "id": "0"
-    }
-  ],
-"semanticColors": {
+    "name": "It's Ourple!!",
+    "description": "me when i fuckin ourple",
+    "authors": [
+        {
+            "name": "KKing",
+            "id": "Noneya"
+        }
+    ],
+    "semanticColors": {
         "HEADER_PRIMARY": [
             "#b30ba7"
         ],
@@ -120,8 +119,8 @@
         "SPOILER_HIDDEN_BACKGROUND": [
             "#DCDDDE"
         ]
-  },
-  "rawColors": {
+    },
+    "rawColors": {
         "PRIMARY": "#b30ba7",
         "PRIMARY_100": "#b30ba7",
         "PRIMARY_200": "#FFFFFF",
@@ -146,16 +145,11 @@
         "RED_560": "#54065e",
         "GREEN_345": "#b30ba7",
         "BLUE_345": "#b30ba7"
-  },
-  "background": {
-    "blur": 0,
-    "url": "https://files.catbox.moe/3dn1sd.jpg",
-    "alpha": 1
-  },
-  "plus": {
-    "version": "0",
-    "iconpack": "rosiecord-plumpy",
-    "customOverlays": true
-  },
-  "spec": 2
+    },
+    "spec": 2,
+    "background": {
+        "url": "https://files.catbox.moe/3dn1sd.jpg",
+        "alpha": 0.5,
+        "color": "#081924"
+    }
 }
