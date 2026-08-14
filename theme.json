@@ -1,6 +1,6 @@
 {
-  "name": "Aetherion Sunset",
-  "description": "Aetherion color scheme on the Glorious Sunset",
+  "name": "Aetherion Purple Sunset",
+  "description": "Deep Purple color scheme for Revenge",
   "version": "1.0.0",
   "authors": [
     {
@@ -10,22 +10,26 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "HEADER_PRIMARY": ["#ff5ee6", "#ff5ee6"],
-    "HEADER_SECONDARY": ["#d8c9ff", "#d8c9ff"],
-    "TEXT_NORMAL": ["#d8c9ff", "#d8c9ff"],
-    "TEXT_MUTED": ["#a178cc", "#a178cc"],
-    "INTERACTIVE_NORMAL": ["#ff5ee6", "#ff5ee6"],
-    "INTERACTIVE_HOVER": ["#ff8eff", "#ff8eff"],
+    "HEADER_PRIMARY": ["#7a00b3", "#7a00b3"],
+    "HEADER_SECONDARY": ["#a843e3", "#a843e3"],
+    "TEXT_NORMAL": ["#b252ed", "#b252ed"],
+    "TEXT_MUTED": ["#7a00b3", "#7a00b3"],
+    "TEXT_LINK": ["#c26bfa", "#c26bfa"],
+    "INTERACTIVE_NORMAL": ["#7a00b3", "#7a00b3"],
+    "INTERACTIVE_HOVER": ["#a843e3", "#a843e3"],
     "INTERACTIVE_ACTIVE": ["#ffffff", "#ffffff"],
-    "INTERACTIVE_MUTED": ["#634275", "#634275"],
+    "INTERACTIVE_MUTED": ["#470069", "#470069"],
     "BACKGROUND_PRIMARY": ["#000000", "#000000"],
     "BACKGROUND_SECONDARY": ["#050507", "#050507"],
     "BACKGROUND_SECONDARY_ALT": ["#0a0a0f", "#0a0a0f"],
     "BACKGROUND_TERTIARY": ["#000000", "#000000"],
     "BACKGROUND_MOBILE_PRIMARY": ["#000000", "#000000"],
     "BACKGROUND_MOBILE_SECONDARY": ["#050507", "#050507"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#2d1238", "#2d1238"],
-    "BACKGROUND_ACCENT": ["#ff5ee6", "#ff5ee6"]
+    "BACKGROUND_MODIFIER_ACCENT": ["#36004f", "#36004f"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#470069", "#470069"],
+    "BACKGROUND_ACCENT": ["#7a00b3", "#7a00b3"],
+    "BORDER_FOCUS": ["#7a00b3", "#7a00b3"],
+    "BORDER_SUBTLE": ["#7a00b3", "#7a00b3"]
   },
   "rawColors": {
     "PRIMARY_600": "#000000",
@@ -38,7 +42,8 @@
     "PLUM_18": "#000000",
     "PLUM_19": "#050507",
     "PLUM_20": "#000000",
-    "BRAND_500": "#ff5ee6"
+    "BRAND_500": "#7a00b3",
+    "BRAND_560": "#5c0087"
   },
   "background": {
     "url": "https://files.catbox.moe/3dn1sd.jpg",
